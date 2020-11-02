@@ -4,7 +4,8 @@
   "description": "Resume-esque Website",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "echo 'NO TEST YET'",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,7 @@
   "homepage": "https://github.com/DanBodell/Personal-Website#readme",
   "dependencies": {
     "epxress": "0.0.1-security",
+    "express": "^4.17.1",
     "node": "^15.0.1",
     "react": "^17.0.1"
   }
