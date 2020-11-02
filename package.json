@@ -1,0 +1,29 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "Resume-esque Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanBodell/Personal-Website.git"
+  },
+  "keywords": [
+    "Resume",
+    "Website",
+    "MERN"
+  ],
+  "author": "Daniel Bodell <Dannbodell@gmail.com>",
+  "license": "MIT-0",
+  "bugs": {
+    "url": "https://github.com/DanBodell/Personal-Website/issues"
+  },
+  "homepage": "https://github.com/DanBodell/Personal-Website#readme",
+  "dependencies": {
+    "epxress": "0.0.1-security",
+    "node": "^15.0.1",
+    "react": "^17.0.1"
+  }
+}
