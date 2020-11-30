@@ -1,0 +1,34 @@
+@font-face{
+    font-family: 'Oxygen';
+    src:local("Oxygen"), url("./../Fonts/Oxygen/Oxygen-Regular.ttf"), format('truetype');
+    
+}
+
+@font-face{
+    font-family: 'Oxygen Light';
+    src:local("Oxygen Light"), url("./../Fonts/Oxygen/Oxygen-Light.ttf"), format('truetype')
+}
+
+body{
+    font-family: Oxygen;
+}
+
+h1{
+    font-family: Oxygen;
+    font-size: 5.5vw;
+    font-weight: lighter;
+    letter-spacing: 0.02em;
+}
+
+h2{
+    font-family: Oxygen Light;
+    font-size: 1.8vw;
+    letter-spacing: 0.04em;
+    font-weight: lighter;
+
+}
+
+hr{
+    width: 31vw;
+    margin-top: -3vw;
+}
